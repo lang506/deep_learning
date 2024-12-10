@@ -1,4 +1,4 @@
-# deep_learning
+# Deep Learning for Beginners
   本项目包含深度学习入门的网络，包括Lenet,Alexnet,VGG16,GoogLenet以及Resnet18。  
   本项目中的网络模型暂不包含数据，但你可以运行各个模型下的model_train.py文件以下载数据集。数据集为公用数据集FashionMinist。  
 以下是对各个神经模型的结构简要介绍：  
